@@ -5,7 +5,7 @@
 [ext_resource type="FontFile" uid="uid://c0j0wuwy0g446" path="res://fonts/ThaleahFat.ttf" id="3_pmaln"]
 [ext_resource type="Theme" uid="uid://ivyhgpqjfdqb" path="res://fonts/Label_pixel_16px.tres" id="4_rpias"]
 [ext_resource type="Texture2D" uid="uid://ck0di8jafuas1" path="res://Assets/backhome.png" id="5_vg3yi"]
-[ext_resource type="Script" path="res://Creditos/texture_button.gd" id="6_7nlvg"]
+[ext_resource type="Script" uid="uid://vtq1e4vdcrpu" path="res://Creditos/texture_button.gd" id="6_7nlvg"]
 [ext_resource type="AudioStream" uid="uid://cgpx4p5b0ml7a" path="res://Music/carrwra.ogg" id="7_rhx86"]
 
 [node name="Creditos" type="Control"]

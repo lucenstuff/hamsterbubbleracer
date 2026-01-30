@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://bg42h15dftq5"]
+
+[ext_resource type="PackedScene" uid="uid://c2p67fd0wgrd1" path="res://Assets/models/Mapav1.glb" id="1_8whpf"]
+
+[node name="Mapav1" instance=ExtResource("1_8whpf")]
+
+[node name="ORIGINAL" parent="." index="0"]
+visible = false
+
+[node name="Plane" parent="." index="1"]
+visible = false

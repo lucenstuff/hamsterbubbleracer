@@ -1,6 +1,6 @@
 [gd_scene load_steps=10 format=3 uid="uid://bnrvre72yxpc8"]
 
-[ext_resource type="Script" path="res://scenes/menu.gd" id="1_avk58"]
+[ext_resource type="Script" uid="uid://52xlj7mfod3d" path="res://scenes/menu.gd" id="1_avk58"]
 [ext_resource type="Texture2D" uid="uid://7j88agbouf2n" path="res://Assets/Background.png" id="1_m2bo5"]
 [ext_resource type="Theme" uid="uid://dawhw8ttbc72o" path="res://fonts/Font_pixel.tres" id="2_0vlco"]
 [ext_resource type="FontFile" uid="uid://c0j0wuwy0g446" path="res://fonts/ThaleahFat.ttf" id="3_ghus6"]
@@ -41,8 +41,8 @@ tracks/0/keys = {
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_7vf8y"]
 _data = {
-"RESET": SubResource("Animation_j0t6w"),
-"main_title": SubResource("Animation_k73xh")
+&"RESET": SubResource("Animation_j0t6w"),
+&"main_title": SubResource("Animation_k73xh")
 }
 
 [node name="Control" type="Control"]
